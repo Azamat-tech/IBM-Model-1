@@ -41,5 +41,4 @@ options:
 You can run the script with default parameters from the command-line using
 ```
 make
-
 ```
